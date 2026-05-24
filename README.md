@@ -35,14 +35,6 @@ Estes são os ecossistemas com os quais estou tendo contato e desenvolvendo proj
 
 <br>
 
-## 📈 Meus Status no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex5762&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5762&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas" height="150" />
-</div>
-
-<br>
 
 ## 📬 Como me encontrar
 

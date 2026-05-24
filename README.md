@@ -48,7 +48,7 @@ Se quiser bater um papo sobre tecnologia, projetos da faculdade ou oportunidades
   <a href="https://www.instagram.com/sck_alex77?igsh=MWtxaGc5M3BjdTc4" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="josephkrescher@gmail.com">
+  <a href="mailto:josephkrescher@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Rodapé hacker animado</title>
+  <desc id="desc">Terminal verde com mensagem de conexão e cursor piscando.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#010402"/><stop offset=".5" stop-color="#04130a"/><stop offset="1" stop-color="#010402"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.blink{animation:blink 1s steps(1) infinite}.line{stroke-dasharray:10 18;animation:move 5s linear infinite}@keyframes blink{50%{opacity:0}}@keyframes move{to{stroke-dashoffset:-224}}</style>
+  </defs>
+  <rect width="1200" height="150" rx="20" fill="url(#bg)"/>
+  <path class="line" d="M45 28H1155" stroke="#22c55e" stroke-opacity=".35" stroke-width="2"/>
+  <text x="65" y="70" fill="#4ade80" font-family="monospace" font-size="18">$ connection_status --check</text>
+  <text x="65" y="105" fill="#dcfce7" font-family="monospace" font-size="20" filter="url(#glow)">open_to_learning_and_opportunities<tspan class="blink">_</tspan></text>
+  <circle cx="1125" cy="87" r="6" fill="#22c55e" filter="url(#glow)"/>
+</svg>

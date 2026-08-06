@@ -1,14 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
-  <title id="title">Rodapé hacker animado</title>
-  <desc id="desc">Terminal verde com mensagem de conexão e cursor piscando.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
+  <title id="title">Rodapé hacker animado V2</title>
+  <desc id="desc">Terminal verde com indicador de conexão, linha de dados, mensagem digitada e cursor animado.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#010402"/><stop offset=".5" stop-color="#04130a"/><stop offset="1" stop-color="#010402"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#010402"/><stop offset=".5" stop-color="#05170b"/><stop offset="1" stop-color="#010402"/></linearGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <style>.blink{animation:blink 1s steps(1) infinite}.line{stroke-dasharray:10 18;animation:move 5s linear infinite}@keyframes blink{50%{opacity:0}}@keyframes move{to{stroke-dashoffset:-224}}</style>
+    <clipPath id="typeClip"><rect x="65" y="88" width="0" height="36"><animate attributeName="width" values="0;470;470;0" keyTimes="0;.48;.88;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
+    <style>
+      .blink{animation:blink .8s steps(1) infinite}.line{stroke-dasharray:10 18;animation:move 4s linear infinite}.scan{animation:scan 3.2s linear infinite}.pulse{animation:pulse 1.8s ease-in-out infinite}.packet{animation:packet 4.5s linear infinite}
+      @keyframes blink{50%{opacity:0}}@keyframes move{to{stroke-dashoffset:-224}}@keyframes scan{0%{transform:translateX(-180px);opacity:0}15%,85%{opacity:.85}100%{transform:translateX(1210px);opacity:0}}@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}@keyframes packet{0%{transform:translateX(0);opacity:0}8%,90%{opacity:1}100%{transform:translateX(1030px);opacity:0}}
+    </style>
   </defs>
-  <rect width="1200" height="150" rx="20" fill="url(#bg)"/>
-  <path class="line" d="M45 28H1155" stroke="#22c55e" stroke-opacity=".35" stroke-width="2"/>
-  <text x="65" y="70" fill="#4ade80" font-family="monospace" font-size="18">$ connection_status --check</text>
-  <text x="65" y="105" fill="#dcfce7" font-family="monospace" font-size="20" filter="url(#glow)">open_to_learning_and_opportunities<tspan class="blink">_</tspan></text>
-  <circle cx="1125" cy="87" r="6" fill="#22c55e" filter="url(#glow)"/>
+  <rect width="1200" height="170" rx="20" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="134" rx="14" fill="#020604" fill-opacity=".78" stroke="#166534" stroke-opacity=".75"/>
+  <path class="line" d="M45 38H1155" stroke="#22c55e" stroke-opacity=".45" stroke-width="2"/>
+  <g class="scan"><rect x="0" y="35" width="150" height="3" fill="#86efac" opacity=".8" filter="url(#glow)"/></g>
+  <circle cx="48" cy="65" r="5" fill="#22c55e" class="pulse" filter="url(#glow)"/>
+  <text x="65" y="72" fill="#4ade80" font-family="monospace" font-size="18">$ connection_status --check</text>
+  <text x="1025" y="72" fill="#4ade80" font-family="monospace" font-size="14">LINK: ACTIVE</text>
+  <g clip-path="url(#typeClip)">
+    <text x="65" y="116" fill="#dcfce7" font-family="monospace" font-size="21" filter="url(#glow)">open_to_learning_and_opportunities</text>
+  </g>
+  <text x="68" y="116" fill="#86efac" font-family="monospace" font-size="21" class="blink">_<animate attributeName="x" values="68;538;538;68" keyTimes="0;.48;.88;1" dur="7s" repeatCount="indefinite"/></text>
+  <g class="packet"><circle cx="70" cy="139" r="4" fill="#4ade80" filter="url(#glow)"/><path d="M76 139h38" stroke="#22c55e" stroke-width="2"/></g>
+  <text x="65" y="146" fill="#166534" font-family="monospace" font-size="12">secure_channel://github/profile/joseph</text>
 </svg>

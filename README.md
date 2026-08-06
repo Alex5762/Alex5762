@@ -3,14 +3,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=%24+iniciando+perfil...;%24+carregando+ADS%2C+IA%2C+dados+e+desenvolvimento+web...;%24+construindo+projetos+reais+e+solu%C3%A7%C3%B5es+digitais...;%24+status%3A+aprendendo+e+evoluindo+continuamente_" alt="Terminal animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=%24+iniciando+perfil...;%24+carregando+ADS%2C+IA%2C+dados+e+desenvolvimento+web...;%24+montando+projetos+e+fluxos+de+automa%C3%A7%C3%A3o...;%24+status%3A+aprendendo+e+evoluindo+continuamente_" alt="Terminal animado" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alex5762&label=ACESSOS%20AO%20SISTEMA&color=16a34a&style=flat-square" alt="Visualizações do perfil" />
 </p>
 
-## `> sobre_mim`
+## `> boot_sequence`
+
+```text
+[ OK ] identidade carregada
+[ OK ] ambiente de estudos inicializado
+[ OK ] projetos privados montados
+[ OK ] modo de aprendizado contínuo ativado
+[ OK ] documentação e validação em execução
+```
+
+## `> whoami`
 
 ```bash
 $ cat joseph.profile
@@ -23,28 +33,39 @@ objetivo="primeira oportunidade profissional em tecnologia"
 metodo_de_trabalho="planejar -> construir -> validar -> documentar"
 ```
 
-Sou estudante de **ADS** e gosto de investigar como softwares e produtos digitais funcionam por trás da interface. Aprendo construindo: desenvolvo projetos próprios, documento decisões e valido cada etapa para transformar ideias em soluções que possam evoluir com segurança.
+Sou estudante de **ADS** e gosto de investigar como softwares e produtos digitais funcionam por trás da interface. Aprendo construindo: desenvolvo projetos próprios, organizo decisões e valido cada etapa para transformar ideias em soluções que possam evoluir com segurança.
 
-## `> processos_em_execucao`
+## `> current_mission`
 
 ```text
-[ACTIVE] Argus Black
-         Projeto principal de longo prazo sobre automação, organização e IA.
-
-[ACTIVE] SCK Assistant
-         Experimentos com assistência digital, produtividade e fluxos inteligentes.
-
-[ACTIVE] Sites Base Profissionais
-         Estrutura reutilizável para sites comerciais e landing pages.
-
-[ACTIVE] Central de Conteúdo
-         Organização, preparação e acompanhamento de conteúdo multirrede.
-
-[PRIVATE] Outros projetos
-          Apps, ferramentas, automações e ideias de produto em validação.
+CURRENT_MISSION
+├── fortalecer minha base em desenvolvimento de software
+├── transformar estudos em projetos práticos e documentados
+├── evoluir em desenvolvimento web, dados e Inteligência Artificial
+├── validar ideias antes de publicá-las
+└── conquistar minha primeira oportunidade profissional em tecnologia
 ```
 
-> A maior parte dos projetos principais está em repositórios privados enquanto passa por construção, documentação e testes.
+## `> processes --status`
+
+A maior parte dos meus projetos principais permanece em repositórios privados enquanto passa por construção, documentação e validação. As descrições abaixo são intencionalmente gerais para não expor arquitetura, estratégias ou diferenciais internos.
+
+```text
+[CORE]     Argus Black
+           Projeto privado de longo prazo relacionado a automação e IA.
+
+[ACTIVE]   SCK Assistant
+           Experimentos privados com assistência digital e produtividade.
+
+[ACTIVE]   Sites Base Profissionais
+           Estrutura privada para experiências web comerciais e landing pages.
+
+[ACTIVE]   Central de Conteúdo
+           Plataforma privada voltada à organização de fluxos de conteúdo.
+
+[LAB]      Outros projetos
+           Aplicativos, ferramentas e ideias em estudo ou validação.
+```
 
 ## `> stack --list`
 
@@ -81,4 +102,6 @@ Sou estudante de **ADS** e gosto de investigar como softwares e produtos digitai
   </a>
 </p>
 
-<p align="center"><code>connection_status: open_to_learning_and_opportunities_</code></p>
+<p align="center">
+  <img src="./assets/footer-hacker.svg" width="100%" alt="Rodapé hacker animado em formato de terminal" />
+</p>

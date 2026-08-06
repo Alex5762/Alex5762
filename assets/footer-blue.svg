@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Rodapé animado do perfil</title>
+  <desc id="desc">Rodapé azul com terminal, linha luminosa e cursor piscando.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#071a3d"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.line{animation:move 4s ease-in-out infinite}.cursor{animation:blink 1s steps(2,end) infinite}@keyframes move{0%,100%{transform:translateX(-280px);opacity:.2}50%{transform:translateX(280px);opacity:1}}@keyframes blink{0%,45%{opacity:1}50%,100%{opacity:0}}</style>
+  </defs>
+  <rect width="1200" height="150" rx="20" fill="url(#bg)"/>
+  <rect x="160" y="28" width="880" height="74" rx="14" fill="#020617" fill-opacity=".9" stroke="#38bdf8" stroke-opacity=".5"/>
+  <circle cx="185" cy="49" r="5" fill="#ef4444"/><circle cx="203" cy="49" r="5" fill="#f59e0b"/><circle cx="221" cy="49" r="5" fill="#22c55e"/>
+  <text x="245" y="54" fill="#7dd3fc" font-family="monospace" font-size="13">alex@github:~</text>
+  <text x="190" y="83" fill="#bae6fd" font-family="monospace" font-size="16">$ open_to_work --learning --projects --collaboration<tspan class="cursor">_</tspan></text>
+  <g class="line"><rect x="460" y="119" width="280" height="3" rx="2" fill="#38bdf8" filter="url(#glow)"/></g>
+  <text x="600" y="143" text-anchor="middle" fill="#64748b" font-family="monospace" font-size="12">connection_status: available_for_learning_and_opportunities</text>
+</svg>

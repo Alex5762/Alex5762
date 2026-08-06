@@ -20,17 +20,40 @@ Formação ......... Análise e Desenvolvimento de Sistemas
 Foco atual ....... C, Python, bancos de dados, dados e web
 Interesses ....... IA, automação, produtos digitais e landing pages
 Objetivo ......... Primeira oportunidade profissional em tecnologia
+Método ........... planejar → construir → validar → documentar
+```
+
+## 🎯 Missão atual
+
+```text
+CURRENT_MISSION
+├── fortalecer minha base em desenvolvimento de software
+├── transformar estudos em projetos práticos e bem documentados
+├── evoluir em desenvolvimento web, dados e Inteligência Artificial
+├── validar ideias com responsabilidade antes de publicá-las
+└── conquistar minha primeira oportunidade profissional em tecnologia
 ```
 
 ## 🚀 Projetos em desenvolvimento
 
-A maior parte dos meus projetos principais permanece em repositórios privados enquanto passa por construção, documentação e validação.
+A maior parte dos meus projetos principais permanece em repositórios privados enquanto passa por construção, documentação e validação. As descrições abaixo são intencionalmente gerais para não expor arquitetura, estratégias ou diferenciais internos.
 
-- **Argus Black** — meu projeto principal e de longo prazo, voltado a automação, organização e uso estratégico de IA.
-- **SCK Assistant** — experimentos com assistência digital, produtividade, fluxos inteligentes e automação.
-- **Sites Base Profissionais** — estrutura reutilizável para criação e entrega de sites comerciais e landing pages.
-- **Central de Conteúdo** — plataforma para organizar, preparar e acompanhar conteúdo em diferentes redes.
-- **Outros projetos privados** — aplicativos, ferramentas e testes de ideias com potencial de evoluir para produtos.
+```text
+[CORE]     Argus Black
+           Projeto privado de longo prazo relacionado a automação e IA.
+
+[ACTIVE]   SCK Assistant
+           Experimentos privados com assistência digital e produtividade.
+
+[ACTIVE]   Sites Base Profissionais
+           Estrutura privada para desenvolvimento de experiências web comerciais.
+
+[ACTIVE]   Central de Conteúdo
+           Plataforma privada voltada à organização de fluxos de conteúdo.
+
+[LAB]      Outros projetos
+           Aplicativos, ferramentas e ideias em estudo ou validação.
+```
 
 ## 🧰 Tecnologias e ferramentas
 
@@ -67,4 +90,6 @@ A maior parte dos meus projetos principais permanece em repositórios privados e
   </a>
 </p>
 
-<p align="center"><sub>Aprendendo, construindo e evoluindo um projeto de cada vez.</sub></p>
+<p align="center">
+  <img src="./assets/footer-blue.svg" width="100%" alt="Rodapé azul animado em formato de terminal" />
+</p>

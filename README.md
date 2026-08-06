@@ -1,54 +1,70 @@
-<h1 align="center">
-  Olá! Eu sou o Joseph Alexsander 👋
-</h1>
+<p align="center">
+  <img src="./assets/header-blue.svg" width="100%" alt="Banner azul animado de Joseph Alexsander" />
+</p>
 
-<h3 align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Aspirante a Desenvolvedor Full-Stack
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=38BDF8&center=true&vCenter=true&width=900&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Construindo+projetos%2C+landing+pages+e+solu%C3%A7%C3%B5es+com+IA;Explorando+dados%2C+web%2C+automa%C3%A7%C3%A3o+e+novas+tecnologias" alt="Apresentação animada" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alex5762&label=Visualiza%C3%A7%C3%B5es&color=0284c7&style=flat-square" alt="Visualizações do perfil" />
+</p>
 
-## 🧑‍💻 Sobre mim
-Sou um estudante apaixonado por tecnologia e fascinado em descobrir como as coisas funcionam "por baixo dos panos", especialmente quando o assunto é Inteligência Artificial. Atualmente estou no 2º período da faculdade construindo uma base sólida em lógica e manipulação de dados, enquanto caminho em direção ao desenvolvimento Full-Stack.
+## 👨‍💻 Sobre mim
 
-- 🎓 **Estudando:** Análise e Desenvolvimento de Sistemas (2º Período).
-- 💻 **Foco Atual:** Linguagem C, Bancos de Dados Relacionais e Análise de Dados com Python.
-- 🤖 **Interesse especial:** Inteligência Artificial (Machine Learning, IAs Generativas e como elas aprendem).
-- 💼 **Objetivo:** Em busca da minha primeira oportunidade de **Estágio em Tecnologia** para colocar o conhecimento acadêmico em prática!
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por entender como a tecnologia funciona por trás das interfaces. Meu foco atual passa por programação, bancos de dados, análise de dados, desenvolvimento web e experimentação prática com Inteligência Artificial.
 
-<br>
+```text
+Nome ............. Joseph Alexsander
+Formação ......... Análise e Desenvolvimento de Sistemas
+Foco atual ....... C, Python, bancos de dados, dados e web
+Interesses ....... IA, automação, produtos digitais e landing pages
+Objetivo ......... Primeira oportunidade profissional em tecnologia
+```
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Projetos em desenvolvimento
 
-Estes são os ecossistemas com os quais estou tendo contato e desenvolvendo projetos atualmente:
+A maior parte dos meus projetos principais permanece em repositórios privados enquanto passa por construção, documentação e validação.
 
-<div align="left">
-  <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <!-- Banco de Dados -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <!-- Dados e IA -->
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
-</div>
+- **Argus Black** — meu projeto principal e de longo prazo, voltado a automação, organização e uso estratégico de IA.
+- **SCK Assistant** — experimentos com assistência digital, produtividade, fluxos inteligentes e automação.
+- **Sites Base Profissionais** — estrutura reutilizável para criação e entrega de sites comerciais e landing pages.
+- **Central de Conteúdo** — plataforma para organizar, preparar e acompanhar conteúdo em diferentes redes.
+- **Outros projetos privados** — aplicativos, ferramentas e testes de ideias com potencial de evoluir para produtos.
 
-<br>
+## 🧰 Tecnologias e ferramentas
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,postgresql,html,css,js,git,github,vscode" alt="Python, C, PostgreSQL, HTML, CSS, JavaScript, Git, GitHub e VS Code" />
+</p>
 
-## 📬 Como me encontrar
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-071A3D?style=for-the-badge&logo=pandas&logoColor=7DD3FC" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-071A3D?style=for-the-badge&logo=jupyter&logoColor=7DD3FC" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/IA%20Generativa-071A3D?style=for-the-badge&logo=openai&logoColor=7DD3FC" alt="IA Generativa" />
+  <img src="https://img.shields.io/badge/Landing%20Pages-071A3D?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" alt="Landing Pages" />
+</p>
 
-Se quiser bater um papo sobre tecnologia, projetos da faculdade ou oportunidades de estágio, fique à vontade para me chamar:
+## 📊 Atividade no GitHub
 
-<div align="left">
-  <!-- Substitua os "#" pelos seus links reais! -->
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
-  <a href="https://www.instagram.com/sck_alex77?igsh=MWtxaGc5M3BjdTc4" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alex5762&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=7DD3FC&text_color=CBD5E1&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5762&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex5762&bg_color=020617&color=7DD3FC&line=38BDF8&point=E0F2FE&area=true&hide_border=true" alt="Gráfico de atividade" />
+</p>
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.instagram.com/sck_alex77?igsh=MWtxaGc5M3BjdTc4">
+    <img src="https://img.shields.io/badge/Instagram-071A3D?style=for-the-badge&logo=instagram&logoColor=7DD3FC" alt="Instagram" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=josephkrescher@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-</div>
+  <a href="mailto:josephkrescher@gmail.com">
+    <img src="https://img.shields.io/badge/Email-071A3D?style=for-the-badge&logo=gmail&logoColor=7DD3FC" alt="Email" />
+  </a>
+</p>
+
+<p align="center"><sub>Aprendendo, construindo e evoluindo um projeto de cada vez.</sub></p>

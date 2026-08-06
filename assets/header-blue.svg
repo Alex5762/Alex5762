@@ -1,39 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">Joseph Alexsander — perfil de tecnologia</title>
-  <desc id="desc">Banner azul animado com grade digital, luzes e apresentação profissional.</desc>
+  <desc id="desc">Banner azul animado com grade digital, sequência de inicialização e apresentação profissional.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#020617"/>
-      <stop offset="0.45" stop-color="#071a3d"/>
+      <stop offset="0.48" stop-color="#071a3d"/>
       <stop offset="1" stop-color="#0b3b70"/>
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="45%" r="58%">
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#082f49" stop-opacity=".76"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="62%">
       <stop offset="0" stop-color="#38bdf8" stop-opacity=".38"/>
       <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
-      <path d="M42 0H0V42" fill="none" stroke="#38bdf8" stroke-opacity=".12" stroke-width="1"/>
+      <path d="M42 0H0V42" fill="none" stroke="#38bdf8" stroke-opacity=".11" stroke-width="1"/>
     </pattern>
     <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <style>
-      .orb{animation:float 5s ease-in-out infinite;transform-origin:center}.orb.b{animation-delay:-2.3s}.scan{animation:scan 4.5s linear infinite}.pulse{animation:pulse 2.8s ease-in-out infinite}.dash{stroke-dasharray:12 18;animation:dash 7s linear infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}@keyframes scan{0%{transform:translateY(-45px);opacity:0}10%,90%{opacity:.7}100%{transform:translateY(390px);opacity:0}}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes dash{to{stroke-dashoffset:-300}}
+      .orb{animation:float 5s ease-in-out infinite;transform-origin:center}.orb.b{animation-delay:-2.3s}.scan{animation:scan 5s linear infinite}.pulse{animation:pulse 2.8s ease-in-out infinite}.dash{stroke-dasharray:12 18;animation:dash 7s linear infinite}.boot{opacity:0;animation:boot 8s ease-in-out infinite}.b1{animation-delay:0s}.b2{animation-delay:1s}.b3{animation-delay:2s}.b4{animation-delay:3s}.cursor{animation:blink 1s steps(2,end) infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}@keyframes scan{0%{transform:translateY(-40px);opacity:0}10%,90%{opacity:.7}100%{transform:translateY(470px);opacity:0}}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@keyframes dash{to{stroke-dashoffset:-300}}@keyframes boot{0%,8%{opacity:0;transform:translateY(5px)}14%,78%{opacity:1;transform:translateY(0)}92%,100%{opacity:0}}@keyframes blink{0%,45%{opacity:1}50%,100%{opacity:0}}
     </style>
   </defs>
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-  <ellipse cx="600" cy="166" rx="500" ry="210" fill="url(#glow)"/>
-  <circle class="orb" cx="110" cy="85" r="4" fill="#7dd3fc" filter="url(#softGlow)"/>
-  <circle class="orb b" cx="1060" cy="95" r="5" fill="#60a5fa" filter="url(#softGlow)"/>
-  <circle class="pulse" cx="1010" cy="275" r="3" fill="#bae6fd"/>
-  <circle class="pulse" cx="175" cy="275" r="3" fill="#93c5fd"/>
-  <path class="dash" d="M75 302 C310 252 390 350 610 302 S940 252 1125 302" fill="none" stroke="#38bdf8" stroke-opacity=".55" stroke-width="2"/>
+  <rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#grid)"/>
+  <ellipse cx="600" cy="170" rx="510" ry="225" fill="url(#glow)"/>
+  <circle class="orb" cx="108" cy="82" r="4" fill="#7dd3fc" filter="url(#softGlow)"/>
+  <circle class="orb b" cx="1070" cy="95" r="5" fill="#60a5fa" filter="url(#softGlow)"/>
+  <circle class="pulse" cx="1020" cy="260" r="3" fill="#bae6fd"/>
+  <circle class="pulse" cx="172" cy="250" r="3" fill="#93c5fd"/>
+  <path class="dash" d="M55 386 C300 336 390 426 610 378 S945 332 1145 382" fill="none" stroke="#38bdf8" stroke-opacity=".48" stroke-width="2"/>
   <g class="scan"><rect x="32" y="0" width="1136" height="2" fill="#7dd3fc" opacity=".65" filter="url(#softGlow)"/></g>
-  <text x="600" y="138" text-anchor="middle" fill="#e0f2fe" font-family="Verdana,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="2">JOSEPH ALEXSANDER</text>
-  <text x="600" y="190" text-anchor="middle" fill="#7dd3fc" font-family="monospace" font-size="22" letter-spacing="3">ADS • IA • DADOS • DESENVOLVIMENTO WEB</text>
-  <text x="600" y="236" text-anchor="middle" fill="#cbd5e1" font-family="Verdana,Arial,sans-serif" font-size="17">Construindo projetos reais, aprendendo continuamente e transformando ideias em soluções.</text>
-  <rect x="390" y="267" width="420" height="38" rx="19" fill="#020617" fill-opacity=".78" stroke="#38bdf8" stroke-opacity=".65"/>
-  <text x="600" y="292" text-anchor="middle" fill="#bae6fd" font-family="monospace" font-size="16">status: evoluindo um commit de cada vez_</text>
+
+  <text x="600" y="118" text-anchor="middle" fill="#e0f2fe" font-family="Verdana,Arial,sans-serif" font-size="50" font-weight="700" letter-spacing="2">JOSEPH ALEXSANDER</text>
+  <text x="600" y="166" text-anchor="middle" fill="#7dd3fc" font-family="monospace" font-size="21" letter-spacing="3">ADS • IA • DADOS • DESENVOLVIMENTO WEB</text>
+  <text x="600" y="208" text-anchor="middle" fill="#cbd5e1" font-family="Verdana,Arial,sans-serif" font-size="17">Construindo projetos reais, aprendendo continuamente e transformando ideias em soluções.</text>
+
+  <rect x="220" y="242" width="760" height="112" rx="16" fill="url(#panel)" stroke="#38bdf8" stroke-opacity=".55"/>
+  <circle cx="245" cy="263" r="5" fill="#ef4444"/>
+  <circle cx="263" cy="263" r="5" fill="#f59e0b"/>
+  <circle cx="281" cy="263" r="5" fill="#22c55e"/>
+  <text x="305" y="268" fill="#7dd3fc" font-family="monospace" font-size="13">profile_boot.log</text>
+
+  <text class="boot b1" x="250" y="295" fill="#bae6fd" font-family="monospace" font-size="14">[ OK ] carregando perfil e contexto profissional...</text>
+  <text class="boot b2" x="250" y="317" fill="#bae6fd" font-family="monospace" font-size="14">[ OK ] conectando estudos, projetos e experiência prática...</text>
+  <text class="boot b3" x="650" y="295" fill="#bae6fd" font-family="monospace" font-size="14">[ OK ] verificando missão e objetivos atuais...</text>
+  <text class="boot b4" x="650" y="317" fill="#e0f2fe" font-family="monospace" font-size="14">[ READY ] sistema pronto: open_to_opportunities<tspan class="cursor">_</tspan></text>
+
+  <rect x="430" y="365" width="340" height="34" rx="17" fill="#020617" fill-opacity=".8" stroke="#38bdf8" stroke-opacity=".62"/>
+  <text x="600" y="387" text-anchor="middle" fill="#bae6fd" font-family="monospace" font-size="14">status: evoluindo um commit de cada vez<tspan class="cursor">_</tspan></text>
 </svg>

@@ -1,107 +1,84 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header-hacker.svg" width="100%" alt="Banner hacker animado de Joseph Alexsander" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:4C1D95,100:7C3AED&text=Joseph%20Alexsander&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Tecnologia%20•%20IA%20•%20Desenvolvimento%20de%20Software&descAlignY=60&animation=fadeIn" alt="Banner de apresentação de Joseph Alexsander" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=%24+iniciando+perfil...;%24+carregando+ADS%2C+IA%2C+dados+e+desenvolvimento+web...;%24+construindo+projetos+reais+e+solu%C3%A7%C3%B5es+digitais...;%24+status%3A+aprendendo+e+evoluindo+continuamente_" alt="Terminal animado" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=A78BFA&center=true&vCenter=true&width=760&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Construindo+projetos+com+foco+em+problemas+reais;Explorando+Full-Stack%2C+Dados+e+Intelig%C3%AAncia+Artificial;Sempre+aprendendo%2C+validando+e+evoluindo" alt="Texto animado apresentando áreas de estudo" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alex5762&label=ACESSOS%20AO%20SISTEMA&color=16a34a&style=flat-square" alt="Visualizações do perfil" />
+</p>
 
-<br>
+## `> sobre_mim`
 
-<a href="mailto:josephkrescher@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.instagram.com/sck_alex77">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Alex5762&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL" alt="Contador de visitas do perfil" />
+```bash
+$ cat joseph.profile
 
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-```text
-Nome       Joseph Alexsander
-Formação   Análise e Desenvolvimento de Sistemas
-Foco       Desenvolvimento Full-Stack, Dados e Inteligência Artificial
-Objetivo   Transformar aprendizado em projetos úteis e bem construídos
-Momento    Buscando a primeira oportunidade profissional em tecnologia
+nome="Joseph Alexsander"
+formacao="Análise e Desenvolvimento de Sistemas"
+foco_atual=("C" "Python" "bancos de dados" "dados" "web")
+interesses=("Inteligência Artificial" "automação" "produtos digitais")
+objetivo="primeira oportunidade profissional em tecnologia"
+metodo_de_trabalho="planejar -> construir -> validar -> documentar"
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de entender como produtos digitais funcionam por trás da interface. Atualmente desenvolvo projetos próprios, estudo fundamentos de programação e exploro formas responsáveis de aplicar Inteligência Artificial na criação de software.
+Sou estudante de **ADS** e gosto de investigar como softwares e produtos digitais funcionam por trás da interface. Aprendo construindo: desenvolvo projetos próprios, documento decisões e valido cada etapa para transformar ideias em soluções que possam evoluir com segurança.
 
-Meu processo de trabalho costuma seguir três princípios: **planejar, validar e documentar**. A ideia não é apenas fazer algo funcionar, mas construir soluções que possam evoluir com segurança.
+## `> processos_em_execucao`
 
----
+```text
+[ACTIVE] Argus Black
+         Projeto principal de longo prazo sobre automação, organização e IA.
 
-## 🚀 No que estou trabalhando
+[ACTIVE] SCK Assistant
+         Experimentos com assistência digital, produtividade e fluxos inteligentes.
 
-- 🧠 Desenvolvimento de projetos digitais com apoio de Inteligência Artificial.
-- 🌐 Criação de aplicações e experiências web responsivas.
-- 📊 Estudos de Python, análise de dados e bancos de dados relacionais.
-- 🧱 Organização de projetos por etapas, documentação e validações técnicas.
-- 🎯 Preparação para minha primeira oportunidade profissional na área de tecnologia.
+[ACTIVE] Sites Base Profissionais
+         Estrutura reutilizável para sites comerciais e landing pages.
 
----
+[ACTIVE] Central de Conteúdo
+         Organização, preparação e acompanhamento de conteúdo multirrede.
 
-## 🛠️ Tecnologias e ferramentas
+[PRIVATE] Outros projetos
+          Apps, ferramentas, automações e ideias de produto em validação.
+```
 
-<div align="center">
+> A maior parte dos projetos principais está em repositórios privados enquanto passa por construção, documentação e testes.
 
-### Linguagens e dados
+## `> stack --list`
 
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,postgres" alt="Python, C, JavaScript, HTML, CSS e PostgreSQL" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,postgresql,html,css,js,git,github,vscode" alt="Python, C, PostgreSQL, HTML, CSS, JavaScript, Git, GitHub e VS Code" />
+</p>
 
-### Desenvolvimento e produtividade
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-020604?style=for-the-badge&logo=pandas&logoColor=4ADE80" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-020604?style=for-the-badge&logo=jupyter&logoColor=4ADE80" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/IA%20Generativa-020604?style=for-the-badge&logo=openai&logoColor=4ADE80" alt="IA Generativa" />
+  <img src="https://img.shields.io/badge/Landing%20Pages-020604?style=for-the-badge&logo=googlechrome&logoColor=4ADE80" alt="Landing Pages" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, Visual Studio Code e Docker" />
+## `> github --stats`
 
-### Em aprendizado contínuo
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alex5762&show_icons=true&hide_border=true&bg_color=010402&title_color=22C55E&icon_color=4ADE80&text_color=DCFCE7&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5762&layout=compact&hide_border=true&bg_color=010402&title_color=22C55E&text_color=DCFCE7" alt="Linguagens mais usadas" />
+</p>
 
-<img src="https://img.shields.io/badge/Inteligência%20Artificial-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligência Artificial" />
-<img src="https://img.shields.io/badge/Análise%20de%20Dados-2563EB?style=for-the-badge&logo=pandas&logoColor=white" alt="Análise de Dados" />
-<img src="https://img.shields.io/badge/Full--Stack-111827?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Desenvolvimento Full-Stack" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex5762&bg_color=010402&color=86EFAC&line=22C55E&point=DCFCE7&area=true&hide_border=true" alt="Gráfico de atividade" />
+</p>
 
-</div>
+## `> contato --open`
 
----
+<p align="center">
+  <a href="https://www.instagram.com/sck_alex77?igsh=MWtxaGc5M3BjdTc4">
+    <img src="https://img.shields.io/badge/Instagram-020604?style=for-the-badge&logo=instagram&logoColor=4ADE80" alt="Instagram" />
+  </a>
+  <a href="mailto:josephkrescher@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020604?style=for-the-badge&logo=gmail&logoColor=4ADE80" alt="Email" />
+  </a>
+</p>
 
-## 📌 Projetos públicos em destaque
-
-<div align="center">
-
-<a href="https://github.com/Alex5762/Pagina-de-login-3D-animado">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex5762&repo=Pagina-de-login-3D-animado&theme=midnight-purple&hide_border=true" alt="Projeto Página de Login 3D Animado" />
-</a>
-<a href="https://github.com/Alex5762/trabalho-de-analise-de-dados-em-python">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex5762&repo=trabalho-de-analise-de-dados-em-python&theme=midnight-purple&hide_border=true" alt="Projeto de análise de dados em Python" />
-</a>
-
-</div>
-
-> Também desenvolvo projetos privados voltados a automação, criação de conteúdo, produtos digitais e soluções comerciais reutilizáveis.
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alex5762&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex5762&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alex5762&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Vamos conversar sobre tecnologia e projetos
-
-Estou sempre aberto a trocar ideias, aprender com outras pessoas e conhecer oportunidades para colocar meus conhecimentos em prática.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,55:4C1D95,100:0D1117&section=footer" width="100%" alt="Rodapé decorativo" />
-
-</div>
+<p align="center"><code>connection_status: open_to_learning_and_opportunities_</code></p>

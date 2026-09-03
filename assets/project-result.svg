@@ -1,0 +1,21 @@
+<svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#242424" stroke-width="1"/></pattern>
+  <linearGradient id="scan" x1="0" x2="1"><stop offset="0" stop-color="#FFD23F" stop-opacity="0"/><stop offset=".5" stop-color="#FFD23F"/><stop offset="1" stop-color="#FFD23F" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="900" height="250" rx="10" fill="#090909" stroke="#292929"/>
+<rect width="900" height="250" fill="url(#grid)" opacity=".55"/>
+<text x="36" y="42" fill="#FFD23F" font-family="monospace" font-size="12" letter-spacing="3">RESULT // SITE BASE PROFISSIONAIS</text>
+<text x="36" y="92" fill="#F4F4F4" font-family="monospace" font-size="28" font-weight="700">SITE BUILT. TESTED. VALIDATED.</text>
+<text x="36" y="125" fill="#9B9B9B" font-family="monospace" font-size="15">Uma experiência comercial construída a partir da base reutilizável.</text>
+<g font-family="monospace">
+  <rect x="36" y="158" width="150" height="52" rx="5" fill="#111" stroke="#333"/>
+  <text x="52" y="181" fill="#777" font-size="10">EXECUTION</text><text x="52" y="200" fill="#FFD23F" font-size="16" font-weight="700">15 MIN</text>
+  <rect x="200" y="158" width="150" height="52" rx="5" fill="#111" stroke="#333"/>
+  <text x="216" y="181" fill="#777" font-size="10">STATUS</text><text x="216" y="200" fill="#F4F4F4" font-size="16" font-weight="700">VALIDATED</text>
+  <rect x="364" y="158" width="150" height="52" rx="5" fill="#111" stroke="#333"/>
+  <text x="380" y="181" fill="#777" font-size="10">OUTPUT</text><text x="380" y="200" fill="#F4F4F4" font-size="16" font-weight="700">READY</text>
+</g>
+<rect x="36" y="225" width="828" height="2" fill="#242424"/><rect x="36" y="225" width="420" height="2" fill="url(#scan)"><animate attributeName="x" values="36;444;36" dur="3.5s" repeatCount="indefinite"/></rect>
+<circle cx="842" cy="43" r="5" fill="#FFD23F"><animate attributeName="opacity" values="1;.35;1" dur="1.6s" repeatCount="indefinite"/></circle>
+</svg>

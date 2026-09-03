@@ -1,95 +1,122 @@
 <p align="center">
-  <img src="./assets/header-blue.svg" width="100%" alt="Banner azul de Joseph Alexsander" />
+  <img src="./assets/header-blue.svg" width="100%" alt="Joseph Alexsander" />
+</p>
+
+<h1 align="center">JOSEPH ALEXSANDER</h1>
+
+<p align="center">
+  <strong>DESENVOLVIMENTO WEB · INTELIGÊNCIA ARTIFICIAL · DADOS</strong>
 </p>
 
 <p align="center">
-  <strong>Desenvolvimento Web • IA • Dados • Automação</strong>
+  <a href="https://github.com/Alex5762">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:josephkrescher@gmail.com">Contato</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=38BDF8&center=true&vCenter=true&width=900&lines=Construindo+projetos+e+experimentos;Desenvolvendo+sites+rápidos+e+responsivos;Explorando+IA%2C+dados+e+automa%C3%A7%C3%A3o;Aprendendo+na+pr%C3%A1tica" alt="Apresentação animada" />
-</p>
+---
 
-## 👨‍💻 Sobre mim
+## PERFIL
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de transformar estudos em projetos reais para aprender na prática.
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em transformar conhecimento técnico em projetos funcionais.
 
-Atualmente exploro principalmente **desenvolvimento web, programação, bancos de dados, análise de dados e Inteligência Artificial**. Meu objetivo é evoluir construindo, testando, corrigindo e documentando projetos continuamente.
+Meu interesse está na interseção entre **software, web, dados e Inteligência Artificial**. Gosto de construir soluções, testar hipóteses e melhorar os projetos a partir do que funciona na prática.
 
 ```text
-Nome ............. Joseph Alexsander
-Formação ......... Análise e Desenvolvimento de Sistemas
-Foco ............. Web, Python, C, dados e IA
-Interesses ....... Automação, produtos digitais e interfaces
-Abordagem ........ aprender → construir → testar → melhorar
+FOCO
+Web              Sites, interfaces e experiências responsivas
+Software         Programação e construção de projetos
+Dados            Python, análise e bancos de dados
+IA               Experimentação e aplicações práticas
 ```
 
-## 🚀 O que estou construindo
+## DIREÇÃO
 
-Grande parte dos projetos maiores ainda está em desenvolvimento e permanece privada enquanto passa por validação. Por isso, mantenho aqui apenas uma visão geral, sem expor arquitetura ou detalhes internos.
+```text
+01  CONSTRUIR
+    transformar ideias em projetos funcionais
 
-- 🌐 **Desenvolvimento Web** — sites institucionais, landing pages e interfaces responsivas.
-- 🤖 **Inteligência Artificial** — experimentos e aplicações práticas com IA.
-- 📊 **Dados** — estudos envolvendo programação, análise e bancos de dados.
-- 🧪 **Projetos de estudo** — experimentos para testar ideias e novas tecnologias.
+02  TESTAR
+    validar decisões através da prática
 
-### 🌟 Projeto público em destaque
+03  REFINAR
+    corrigir, simplificar e melhorar
 
-**Escola Vaga-Lume** — site institucional desenvolvido como projeto de estudos sobre design, desenvolvimento web, responsividade e criação de interfaces rápidas e leves.
+04  DOCUMENTAR
+    registrar o que foi aprendido e construído
+```
 
-→ [Ver projeto no GitHub](https://github.com/Alex5762/Escola-vaga-lume-)
+## PROJETOS
 
-## 🧰 Tecnologias e ferramentas
+A maior parte dos projetos de maior escala permanece privada durante seu processo de desenvolvimento e validação. Os projetos públicos representam estudos e experimentos que podem ser apresentados sem expor informações internas.
+
+### ESCOLA VAGA-LUME
+
+Site institucional desenvolvido como projeto de estudos sobre **design de interfaces, desenvolvimento web, responsividade e criação de sites rápidos e leves**.
+
+**Stack:** Astro · HTML · CSS
+
+→ [Ver projeto](https://github.com/Alex5762/Escola-vaga-lume-)
+
+### OUTROS PROJETOS
+
+**Argus Black** — projeto privado de longo prazo envolvendo software, automação e Inteligência Artificial.
+
+**SCK Assistant** — experimentos privados relacionados a assistência digital e produtividade.
+
+**Sites Base Profissionais** — projeto privado voltado à construção de experiências web comerciais.
+
+**Central de Conteúdo** — projeto privado para organização e gerenciamento de fluxos de conteúdo.
+
+## STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,postgresql,html,css,js,astro,git,github,vscode" alt="Python, C, PostgreSQL, HTML, CSS, JavaScript, Astro, Git, GitHub e VS Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-071A3D?style=for-the-badge&logo=pandas&logoColor=7DD3FC" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-071A3D?style=for-the-badge&logo=jupyter&logoColor=7DD3FC" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/IA%20Generativa-071A3D?style=for-the-badge&logo=openai&logoColor=7DD3FC" alt="IA Generativa" />
-  <img src="https://img.shields.io/badge/Landing%20Pages-071A3D?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC" alt="Landing Pages" />
+  <img src="https://img.shields.io/badge/Pandas-0B0F14?style=for-the-badge&logo=pandas&logoColor=FFD23F" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Jupyter-0B0F14?style=for-the-badge&logo=jupyter&logoColor=FFD23F" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/IA%20Generativa-0B0F14?style=for-the-badge&logo=openai&logoColor=FFD23F" alt="IA Generativa" />
 </p>
 
-## 📊 Atividade no GitHub
+## ATIVIDADE
 
-Meu perfil reúne projetos públicos, estudos e experimentos desenvolvidos ao longo do meu aprendizado.
+Minha atividade acontece principalmente através de **projetos, estudos e experimentação contínua**.
 
-> O gráfico de contribuições e a atividade recente são exibidos diretamente pelo GitHub na página do perfil. Aqui no README, mantenho apenas informações que complementam essa visualização, evitando depender de gráficos externos que podem deixar de carregar.
+O gráfico de contribuições oficial do GitHub permanece disponível diretamente no perfil, sem depender de serviços externos para representar minha atividade.
 
 <p align="center">
   <a href="https://github.com/Alex5762">
-    <img src="https://img.shields.io/badge/Ver%20perfil%20completo-GitHub-071A3D?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="Ver perfil completo no GitHub" />
+    <img src="https://img.shields.io/badge/VER%20ATIVIDADE-0B0F14?style=for-the-badge&logo=github&logoColor=FFD23F" alt="Ver atividade no GitHub" />
   </a>
 </p>
 
-## 📚 Atualmente estudando
+## ESTUDOS ATUAIS
 
 ```text
-├── Desenvolvimento de software
-├── Desenvolvimento web
-├── Bancos de dados e PostgreSQL
-├── Python e análise de dados
-├── Inteligência Artificial
-└── Boas práticas de projeto e documentação
+DESENVOLVIMENTO DE SOFTWARE
+DESENVOLVIMENTO WEB
+PYTHON E ANÁLISE DE DADOS
+POSTGRESQL E BANCOS DE DADOS
+INTELIGÊNCIA ARTIFICIAL
+ARQUITETURA E ORGANIZAÇÃO DE PROJETOS
 ```
 
-## 🎯 Objetivo
+## PRINCÍPIO
 
-Construir uma base sólida em tecnologia por meio de projetos práticos e, gradualmente, transformar esse aprendizado em experiência profissional.
+> **Construir primeiro. Validar na prática. Melhorar continuamente.**
 
-## 📫 Contato
+## CONTATO
 
 <p align="center">
-  <a href="https://www.instagram.com/sck_alex77">
-    <img src="https://img.shields.io/badge/Instagram-071A3D?style=for-the-badge&logo=instagram&logoColor=7DD3FC" alt="Instagram" />
-  </a>
-  <a href="mailto:josephkrescher@gmail.com">
-    <img src="https://img.shields.io/badge/Email-071A3D?style=for-the-badge&logo=gmail&logoColor=7DD3FC" alt="Email" />
-  </a>
+  <a href="mailto:josephkrescher@gmail.com">EMAIL</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sck_alex77">INSTAGRAM</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Alex5762">GITHUB</a>
 </p>
 
 <p align="center">
-  <img src="./assets/footer-blue.svg" width="100%" alt="Rodapé azul em formato de terminal" />
+  <img src="./assets/footer-blue.svg" width="100%" alt="Rodapé" />
 </p>

@@ -65,9 +65,14 @@ Projeto público de estudos focado em **interfaces, responsividade, performance 
 
 ## GITHUB ACTIVITY
 
-<p align="center"><img src="./assets/activity-panel.svg" width="100%" alt="Painel visual de atividade" /></p>
+<p align="center">
+  <img src="./assets/activity-panel.svg" width="100%" alt="Matriz visual de atividade do GitHub" />
+</p>
 
-<p align="center"><a href="https://github.com/Alex5762"><img src="https://img.shields.io/badge/OPEN%20LIVE%20CONTRIBUTIONS-090909?style=for-the-badge&logo=github&logoColor=FFD23F" alt="Abrir contribuições no GitHub" /></a></p>
+<p align="center">
+  <sub>CONTRIBUTIONS ARE LIVE ON THE PROFILE</sub><br/>
+  <a href="https://github.com/Alex5762">OPEN GITHUB →</a>
+</p>
 
 ## LEARNING LOG
 
@@ -92,4 +97,6 @@ DOCUMENT    → deixar o conhecimento reutilizável
 
 <p align="center"><strong>BUILD → TEST → REFINE</strong><br/><sub>JOSEPH ALEXSANDER · SOFTWARE / WEB / AI / DATA</sub></p>
 
-<p align="center"><img src="./assets/footer-blue.svg" width="100%" alt="Rodapé do perfil" /></p>
+<p align="center">
+  <img src="./assets/argus-footer.svg" width="100%" alt="Rodapé técnico do perfil" />
+</p>

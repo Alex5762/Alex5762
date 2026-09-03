@@ -43,15 +43,16 @@ Não uso o GitHub apenas como vitrine. Ele funciona como registro do processo: *
 | **SCK ASSISTANT** | `PRIVATE / LAB` | Assistência digital e produtividade |
 | **SITES BASE PROFISSIONAIS** | `PRIVATE / ACTIVE` | Desenvolvimento de experiências web comerciais |
 | **CENTRAL DE CONTEÚDO** | `PRIVATE / ACTIVE` | Organização e gerenciamento de fluxos de conteúdo |
-| **ESCOLA VAGA-LUME** | `PUBLIC / STUDY` | Design de interface e desenvolvimento web |
 
 > Projetos privados permanecem descritos apenas em nível conceitual. Arquitetura, estratégias e diferenciais internos não fazem parte desta vitrine.
 
-### ESCOLA VAGA-LUME
+### PROJECT RESULT // SITE BASE
 
-Projeto público de estudos focado em **interfaces, responsividade, performance e desenvolvimento web com Astro**.
+<p align="center"><img src="./assets/project-result.svg" width="100%" alt="Resultado de projeto construído com o Site Base Profissionais" /></p>
 
-<a href="https://github.com/Alex5762/Escola-vaga-lume-">→ VER REPOSITÓRIO</a>
+Um exemplo prático do objetivo do **Sites Base Profissionais**: transformar uma base reutilizável em uma experiência comercial funcional, passando por **construção, teste e validação** em um fluxo curto.
+
+> **15 minutos.** Um site construído, testado e validado — do primeiro passo ao resultado funcional.
 
 ## STACK // CORE
 
@@ -70,8 +71,8 @@ Projeto público de estudos focado em **interfaces, responsividade, performance 
 </p>
 
 <p align="center">
-  <sub>CONTRIBUTIONS ARE LIVE ON THE PROFILE</sub><br/>
-  <a href="https://github.com/Alex5762">OPEN GITHUB →</a>
+  <sub>LIVE CONTRIBUTIONS · CODE · PROJECTS · EXPERIMENTATION</sub><br/>
+  <a href="https://github.com/Alex5762">VIEW PROFILE ACTIVITY →</a>
 </p>
 
 ## LEARNING LOG

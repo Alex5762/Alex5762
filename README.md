@@ -39,6 +39,7 @@ Não uso o GitHub apenas como vitrine. Ele funciona como registro do processo: *
 
 | PROJECT | STATUS | SCOPE |
 | --- | --- | --- |
+| [**ANÁLISE DE DADOS HISTÓRICOS — WWII**](https://github.com/Alex5762/meu-tcc) | `PUBLIC / ACADEMIC` | Python · THOR · ETL · EDA · Apriori · Scikit-learn |
 | **ARGUS BLACK** | `PRIVATE / CORE` | Software, automação e Inteligência Artificial |
 | **SCK ASSISTANT** | `PRIVATE / LAB` | Assistência digital e produtividade |
 | **SITES BASE PROFISSIONAIS** | `PRIVATE / ACTIVE` | Desenvolvimento de experiências web comerciais |
@@ -48,11 +49,11 @@ Não uso o GitHub apenas como vitrine. Ele funciona como registro do processo: *
 
 ### PROJECT RESULT // SITE BASE
 
-<p align="center"><img src="./assets/project-result.svg" width="100%" alt="Resultado de projeto construído com o Site Base Profissionais" /></p>
+<p align="center"><img src="./assets/project-result.svg" width="100%" alt="Painel visual do processo de desenvolvimento do Site Base Profissionais" /></p>
 
-Um exemplo prático do objetivo do **Sites Base Profissionais**: transformar uma base reutilizável em uma experiência comercial funcional, passando por **construção, teste e validação** em um fluxo curto.
+Uma demonstração do objetivo do **Sites Base Profissionais**: desenvolver uma base reutilizável para construir sites voltados a negócios locais, com atenção a **responsividade, desempenho, acessibilidade e SEO**.
 
-> **15 minutos.** Um site construído, testado e validado — do primeiro passo ao resultado funcional.
+O projeto segue em desenvolvimento. Esta seção apresenta sua direção técnica e seu fluxo de trabalho, não uma carteira de clientes ou resultados comerciais.
 
 ## STACK // CORE
 

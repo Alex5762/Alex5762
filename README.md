@@ -49,7 +49,7 @@ Não uso o GitHub apenas como vitrine. Ele funciona como registro do processo: *
 
 ### PROJECT RESULT // SITE BASE
 
-<p align="center"><img src="./assets/project-result.svg" width="100%" alt="Resultado de projeto construído com o Site Base Profissionais" /></p>
+<p align="center"><img src="./assets/project-result.svg" width="100%" alt="Painel visual do processo de desenvolvimento do Site Base Profissionais" /></p>
 
 Uma demonstração do objetivo do **Sites Base Profissionais**: desenvolver uma base reutilizável para construir sites voltados a negócios locais, com atenção a **responsividade, desempenho, acessibilidade e SEO**.
 
